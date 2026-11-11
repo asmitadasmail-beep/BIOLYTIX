@@ -1,0 +1,6 @@
+{
+  "name": "BioDDI: Drug–Disease Interaction & Molecular Explorer",
+  "description": "An intelligent computational system for biomedical drug–disease interaction analysis, biological pathway explanation, and 3D molecular docking visualization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
